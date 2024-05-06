@@ -8,7 +8,7 @@ This project aims to develop an advanced text summarization system using deep le
 The dataset used for this project can be found [here](https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail).
 
 ## System Architecture
-![System Architecture](architecture image.png)
+![System Architecture]([architecture image.png](https://github.com/harshavardhini39/Precise-Text-Summarization/blob/main/architecture%20image.png))
 
 ## Text Summarization Process
 1. **Data Collection**: Gather text documents from the provided dataset.
